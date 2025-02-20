@@ -9,3 +9,6 @@ class Solution:
             return abs(closest)
         else:
             return closest
+        
+# Time Complexity : O(n)
+# Space Complexity : O(1)

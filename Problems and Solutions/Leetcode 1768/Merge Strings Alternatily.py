@@ -27,5 +27,5 @@ class Solution:
 
         return ''.join(s)
     
-# Time Complexity : o(A+B)
-# Space Complexity : o(A+B)
+# Time Complexity : O(A+B)
+# Space Complexity : O(A+B)
